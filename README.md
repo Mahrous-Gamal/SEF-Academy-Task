@@ -6,7 +6,7 @@
 
 ## [Website Demo](https://mahrous-gamal.github.io/SEF-Academy-Task3/)
 
-![image](https://github.com/Mahrous-Gamal/SEF-Academy-Task3/assets/105131896/866c18cc-aa94-4817-9f09-064f457d5a48)
+![image](https://github.com/Mahrous-Gamal/SEF-Academy-Task/assets/105131896/866c18cc-aa94-4817-9f09-064f457d5a48)
 
 ### Prerequisites
 
