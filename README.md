@@ -1,4 +1,4 @@
-# SEF Academy Task3
+# SEF Academy Task
 
 - Responsive Website Using HTML, CSS, and Bootstrap.
 - Developed first with the Mobile First methodology, then for desktop.
