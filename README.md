@@ -16,16 +16,16 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **SEF Academy Task3** locally, run this command on your git bash:
+To run **SEF Academy Task** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/Mahrous-Gamal/SEF-Academy-Task3.git
+sudo git clone https://github.com/Mahrous-Gamal/SEF-Academy-Task.git
 ```
 
 ```bash
-git clone https://github.com/Mahrous-Gamal/SEF-Academy-Task3.git
+git clone https://github.com/Mahrous-Gamal/SEF-Academy-Task.git
 ```
 
 ### Contact
