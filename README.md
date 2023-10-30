@@ -24,6 +24,8 @@ Linux and macOS:
 sudo git clone https://github.com/Mahrous-Gamal/SEF-Academy-Task.git
 ```
 
+Windows:
+
 ```bash
 git clone https://github.com/Mahrous-Gamal/SEF-Academy-Task.git
 ```
